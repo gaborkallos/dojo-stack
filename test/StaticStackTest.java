@@ -28,9 +28,9 @@ class StaticStackTest {
     void push() {
         assertThrows(Exception.class, () -> {
             testStaticStack.push('O');
-            LOGGER.log("Push test : Failure (Stack is full)!");
+            LOGGER.log("StaticStack push test : Failure (Stack is full)!");
         });
-        LOGGER.log("Push test : Success!");
+        LOGGER.log("StaticStack push test : Success!");
     }
 
     @Test
@@ -38,9 +38,9 @@ class StaticStackTest {
         StaticStack staticStack = new StaticStack(5);
         assertThrows(Exception.class, () -> {
             staticStack.pop();
-            LOGGER.log("Pop test : Failure (Stack is empty)!");
+            LOGGER.log("StaticStack pop test : Failure (Stack is empty)!");
         });
-        LOGGER.log("Pop test : Success!");
+        LOGGER.log("StaticStack pop test : Success!");
     }
 
     @Test
@@ -48,9 +48,9 @@ class StaticStackTest {
         StaticStack staticStack = new StaticStack(5);
         assertThrows(Exception.class, () -> {
             staticStack.peek();
-            LOGGER.log("Peek test : Failure (Stack is empty)!");
+            LOGGER.log("StaticStack peek test : Failure (Stack is empty)!");
         });
-        LOGGER.log("Peek test : Success!");
+        LOGGER.log("StaticStack peek test : Success!");
     }
 }
 

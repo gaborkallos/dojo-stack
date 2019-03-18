@@ -21,18 +21,18 @@ class DynamicStackTest {
     void pop() {
         assertThrows(Exception.class, () -> {
             testDynamicStack.pop();
-            LOGGER.log("Pop test : Failure (Stack is full)!");
+            LOGGER.log("DynamicStack pop test : Failure (Stack is full)!");
         });
-        LOGGER.log("Pop Test : Success!");
+        LOGGER.log("DynamicStack pop Test : Success!");
     }
 
     @Test
     void peek() {
         assertThrows(Exception.class, () -> {
             testDynamicStack.peek();
-            LOGGER.log("Peek test : Failure (Stack is empty)!");
+            LOGGER.log("DynamicStack peek test : Failure (Stack is empty)!");
         });
-        LOGGER.log("Peek test : Success!");
+        LOGGER.log("DynamicStack peek test : Success!");
     }
 
 }

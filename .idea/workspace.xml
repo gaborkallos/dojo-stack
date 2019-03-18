@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d429f7ef-782a-46b0-ba2c-5006f620a548" name="Default Changelist" comment="" />
+    <list default="true" id="d429f7ef-782a-46b0-ba2c-5006f620a548" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/DynamicStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DynamicStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/StaticStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StaticStackTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/stack/DynamicStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
@@ -50,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/DynamicStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="46" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="476">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/StaticStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="585">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -96,19 +103,20 @@
         <option value="$PROJECT_DIR$/test/com/codecool/gaborkallos/stack/StaticStackTest.java" />
         <option value="$PROJECT_DIR$/src/com/codecool/gaborkallos/stack/StaticStack.java" />
         <option value="$PROJECT_DIR$/src/com/codecool/gaborkallos/logger/Logger.java" />
-        <option value="$PROJECT_DIR$/test/DynamicStackTest.java" />
-        <option value="$PROJECT_DIR$/log.txt" />
         <option value="$PROJECT_DIR$/test/Test.java" />
+        <option value="$PROJECT_DIR$/log.txt" />
         <option value="$PROJECT_DIR$/test/StaticStackTest.java" />
+        <option value="$PROJECT_DIR$/test/DynamicStackTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="1853" />
-    <option name="height" value="1053" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -139,6 +147,13 @@
               <item name="dojo-stack" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gaborkallos" type="462c0819:PsiDirectoryNode" />
+              <item name="logger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dojo-stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dojo-stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gaborkallos" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -159,7 +174,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552914112722" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552914543518" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -196,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StaticStackTest">
+  <component name="RunManager" selected="JUnit.DynamicStackTest">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="dojo-stack" />
@@ -251,8 +266,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StaticStackTest" />
         <item itemvalue="JUnit.DynamicStackTest" />
+        <item itemvalue="JUnit.StaticStackTest" />
         <item itemvalue="JUnit.StaticStackTest.push" />
         <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.DynamicStackTest.pop" />
@@ -269,32 +284,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552897020128</updated>
-      <workItem from="1552897026574" duration="12582000" />
+      <workItem from="1552897026574" duration="13148000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StaticStackTest - 2019.03.18 at 13h 24m 24s.xml">
-      <configuration name="StaticStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicStackTest - 2019.03.18 at 13h 40m 32s.xml">
-      <configuration name="DynamicStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicStackTest_pop - 2019.03.18 at 13h 43m 29s.xml">
-      <configuration name="DynamicStackTest.pop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicStackTest_pop - 2019.03.18 at 13h 44m 11s.xml">
-      <configuration name="DynamicStackTest.pop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DynamicStackTest - 2019.03.18 at 13h 44m 19s.xml">
-      <configuration name="DynamicStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StaticStackTest - 2019.03.18 at 13h 46m 21s.xml">
-      <configuration name="StaticStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StaticStackTest - 2019.03.18 at 13h 46m 43s.xml">
-      <configuration name="StaticStackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StaticStackTest_push - 2019.03.18 at 13h 55m 58s.xml">
       <configuration name="StaticStackTest.push" configurationId="JUnit" />
     </history-entry>
@@ -304,9 +298,30 @@
     <history-entry file="StaticStackTest - 2019.03.18 at 13h 58m 13s.xml">
       <configuration name="StaticStackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StaticStackTest_push - 2019.03.18 at 13h 59m 00s.xml">
+      <configuration name="StaticStackTest.push" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticStackTest - 2019.03.18 at 13h 59m 37s.xml">
+      <configuration name="StaticStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticStackTest - 2019.03.18 at 13h 59m 51s.xml">
+      <configuration name="StaticStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticStackTest - 2019.03.18 at 14h 00m 07s.xml">
+      <configuration name="StaticStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticStackTest - 2019.03.18 at 14h 00m 42s.xml">
+      <configuration name="StaticStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicStackTest - 2019.03.18 at 14h 01m 45s.xml">
+      <configuration name="DynamicStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticStackTest - 2019.03.18 at 14h 01m 55s.xml">
+      <configuration name="StaticStackTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12582000" />
+    <option name="totallyTimeSpent" value="13148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -323,11 +338,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33045357" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,7 +390,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/stack/DynamicStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
@@ -388,23 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/logger/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -418,10 +420,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/DynamicStackTest.java">
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codecool/gaborkallos/logger/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -430,8 +435,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/StaticStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="585">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DynamicStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

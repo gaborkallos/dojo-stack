@@ -1,11 +1,10 @@
-2019/03/18 14:00:06 Pop test : Success!
-2019/03/18 14:00:06 Peek test : Success!
-2019/03/18 14:00:06 Push test : Success!
-2019/03/18 14:00:42 Pop test : Success!
-2019/03/18 14:00:42 Peek test : Success!
-2019/03/18 14:00:42 Push test : Success!
-2019/03/18 14:01:45 Pop Test : Success!
-2019/03/18 14:01:45 Peek test : Success!
-2019/03/18 14:01:55 Pop test : Success!
-2019/03/18 14:01:55 Peek test : Success!
-2019/03/18 14:01:55 Push test : Success!
+2019/03/18 14:08:26 DynamicStack pop Test : Success!
+2019/03/18 14:08:26 DynamicStack peek test : Success!
+2019/03/18 14:08:39 StaticStack pop test : Success!
+2019/03/18 14:08:39 StaticStack peek test : Success!
+2019/03/18 14:08:39 StaticStack push test : Success!
+2019/03/18 14:09:00 StaticStack pop test : Success!
+2019/03/18 14:09:00 StaticStack peek test : Success!
+2019/03/18 14:09:00 StaticStack push test : Success!
+2019/03/18 14:09:05 DynamicStack pop Test : Success!
+2019/03/18 14:09:05 DynamicStack peek test : Success!
